@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DIJJER</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>DIJJER</h1>
+    <p class="tagline">People. Pet Projects. Poetry. Philosophy. Physics. Gratitude.</p>
+  </header>
+
+  <main>
+    <section id="welcome">
+      <h2>Welcome</h2>
+      <p>Welcome to my space — a reflection of the people, projects, poetry, and philosophy that shape my world.</p>
+    </section>
+
+    <section id="writing">
+      <h2>My Writing</h2>
+      <p>Find my latest posts and thoughts shared across social media.</p>
+      <ul>
+        <li><a href="#">LinkedIn</a></li>
+        <li><a href="#">Medium</a></li>
+        <li><a href="#">Substack</a></li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2>My Projects</h2>
+      <div class="project-list">
+        <div class="project">
+          <h3>Wortis</h3>
+          <p>Wordle meets Tetris — a game that challenges your vocabulary and reflexes.</p>
+          <a href="#">Play Wortis</a>
+        </div>
+        <div class="project">
+          <h3>WordSnake</h3>
+          <p>Link words in a chain of logic and language — a puzzle for the curious.</p>
+          <a href="#">Play WordSnake</a>
+        </div>
+        <div class="project">
+          <h3>Sequencle</h3>
+          <p>A game of patterns, memory, and flow — can you find the sequence?</p>
+          <a href="#">Play Sequencle</a>
+        </div>
+        <div class="project">
+          <h3>CoPrompt</h3>
+          <p>A collaborative AI space — where teams think, write, and create together.</p>
+          <a href="#">Try CoPrompt</a>
+        </div>
+        <div class="project">
+          <h3>Coming Soon</h3>
+          <p>Something new is always around the corner...</p>
+          <a href="#">Learn More</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="poetry">
+      <h2>Poetry</h2>
+      <p>Poems by my son — reflections of youth, thought, and imagination.</p>
+      <ul>
+        <li><a href="#">The End</a></li>
+        <li><a href="#">More Coming Soon</a></li>
+      </ul>
+    </section>
+
+    <section id="philosophy">
+      <h2>Philosophy</h2>
+      <p>A space for my son’s ideas — about meaning, curiosity, and wonder.</p>
+    </section>
+
+    <section id="gratitude">
+      <h2>Gratitude Board</h2>
+      <p>A space to thank friends, mentors, and family who’ve made an impact on my journey.</p>
+    </section>
+  </main>
+
+  <footer>
+    <a href="#">About</a> | <a href="#">Contact</a>
+    <p>© 2025 DIJJER</p>
+  </footer>
+</body>
+</html>
